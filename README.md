@@ -21,7 +21,7 @@ The workflow is designed to work with **open-source Earth observation data**, su
 
 ## Methodology 
 1. Add other modules
-2. in the main code 
+2. in the notebook using main code 
 3. Define the **area of interest (AOI)**
 4. Select the **time period**
 5. Select the **lag**
