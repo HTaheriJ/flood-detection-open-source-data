@@ -20,12 +20,13 @@ The workflow is designed to work with **open-source Earth observation data**, su
 
 
 ## Methodology 
-1. add other modules  
-2. Define the **area of interest (AOI)**
-3. Select the **time period**
-4. Select the **lag**
-5. Select the **cloud_threshold**
-6. Select the **min_area**
-7. remember to adress name of you project in initialize_earth_engine and in the GEE
+1. Add other modules
+2. in the main code 
+3. Define the **area of interest (AOI)**
+4. Select the **time period**
+5. Select the **lag**
+6. Select the **cloud_threshold**
+7. Select the **min_area**
+8. remember to adress name of you project in initialize_earth_engine and in the GEE
 
 
